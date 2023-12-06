@@ -1,0 +1,52 @@
+Project documentation
+<---- javadoc command: ---->
+E:\Program Files (x86)\Greenfoot\jdk\bin\javadoc.exe
+-sourcepath
+E:\U\2023-2\TdP\Gas_Simulator
+-source
+17
+-classpath
+E:\Program Files (x86)\Greenfoot\lib\greenfoot.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-base-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-base-20.0.1.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-controls-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-controls-20.0.1.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-fxml-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-graphics-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-graphics-20.0.1.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-media-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-media-20.0.1.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-swing-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\javafx-web-20.0.1-win.jar;E:\Program Files (x86)\Greenfoot\lib\junit-4.12.jar;E:\Program Files (x86)\Greenfoot\lib\junit-jupiter-5.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-jupiter-api-5.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-jupiter-engine-5.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-jupiter-params-5.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-platform-commons-1.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-platform-engine-1.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-platform-launcher-1.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-platform-suite-api-1.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\junit-vintage-engine-5.5.2.jar;E:\Program Files (x86)\Greenfoot\lib\hamcrest-core-1.3.jar;E:\Program Files (x86)\Greenfoot\lib\opentest4j-1.2.0.jar;E:\Program Files (x86)\Greenfoot\lib\bluej.jar;E:\Program Files (x86)\Greenfoot\lib\classgraph-4.8.90.jar;E:\Program Files (x86)\Greenfoot\lib\diffutils-1.2.1.jar;E:\Program Files (x86)\Greenfoot\lib\commons-logging-1.2.jar;E:\Program Files (x86)\Greenfoot\lib\jl1.0.1.jar;E:\Program Files (x86)\Greenfoot\lib\opencsv-2.3.jar;E:\Program Files (x86)\Greenfoot\lib\opencsv-2.4.jar;E:\Program Files (x86)\Greenfoot\lib\xom-1.3.7.jar;E:\Program Files (x86)\Greenfoot\lib\lang-stride.jar;E:\Program Files (x86)\Greenfoot\lib\nsmenufx-2.1.8.jar;E:\Program Files (x86)\Greenfoot\lib\wellbehavedfx-0.3.3.jar;E:\Program Files (x86)\Greenfoot\lib\guava-17.0.jar;E:\Program Files (x86)\Greenfoot\lib\httpclient-4.5.13.jar;E:\Program Files (x86)\Greenfoot\lib\httpcore-4.4.13.jar;E:\Program Files (x86)\Greenfoot\lib\httpmime-4.1.1.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.base.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.controls.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.fxml.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.graphics.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.media.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.properties.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.swing.jar;E:\Program Files (x86)\Greenfoot\lib\javafx\javafx.web.jar;E:\U\2023-2\TdP\Gas_Simulator\amqp-client-5.16.0.jar;E:\U\2023-2\TdP\Gas_Simulator\slf4j-api-1.7.36.jar;E:\U\2023-2\TdP\Gas_Simulator\slf4j-simple-1.7.36.jar;E:\U\2023-2\TdP\Gas_Simulator
+-d
+E:\U\2023-2\TdP\Gas_Simulator\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+Gas_Simulator
+-windowtitle
+Gas_Simulator
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/17/docs/api/
+E:\U\2023-2\TdP\Gas_Simulator/Message.java
+E:\U\2023-2\TdP\Gas_Simulator/Kitchen.java
+E:\U\2023-2\TdP\Gas_Simulator/Phone.java
+E:\U\2023-2\TdP\Gas_Simulator/Siren.java
+E:\U\2023-2\TdP\Gas_Simulator/GasParticle.java
+E:\U\2023-2\TdP\Gas_Simulator/Person.java
+E:\U\2023-2\TdP\Gas_Simulator/Sensor.java
+<---- end of javadoc command ---->
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\Message.java...
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\Kitchen.java...
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\Phone.java...
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\Siren.java...
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\GasParticle.java...
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\Person.java...
+Loading source file E:\U\2023-2\TdP\Gas_Simulator\Sensor.java...
+Constructing Javadoc information...
+E:\U\2023-2\TdP\Gas_Simulator\Sensor.java:16: error: package org.json does not exist
+import org.json.JSONObject;
+               ^
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+warning: unknown enum constant Tag.Any
+warning: unknown enum constant Tag.Any
+1 error
+4 warnings

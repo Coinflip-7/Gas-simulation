@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sensor2
+comment1.params=siren\ phone
+comment1.target=Sensor2(Siren,\ Phone)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ verificarConcentracion()
+comment4.params=
+comment4.target=void\ close()
+numComments=5
